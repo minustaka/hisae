@@ -1,0 +1,36 @@
+html{
+    background-color: #111111;
+}
+
+#headers{
+    font-family: consolas;
+    color: #449BE6;
+    text-align: center;
+}
+
+#desc{   
+    font-family: consolas;
+    color: #449BE6;
+    text-align: center;
+}
+
+#desc2{   
+    font-family: consolas;
+    color: #449BE6;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#desc3{   
+    font-family: consolas;
+    color: tomato;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+hr{
+    width: 70%;
+    border: 1px solid #449BE6 ;
+}
